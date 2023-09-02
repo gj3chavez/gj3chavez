@@ -1,4 +1,4 @@
-### Hi there 👋
+### Giuliana Chavez 👋
 
 <!--
 **gj3chavez/gj3chavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
