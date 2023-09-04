@@ -10,7 +10,7 @@ I am a full stack developer, I am passionate about building innovative, efficien
 <br>
 <div align="center">
 
-[Email Me](gj3chavez@gmail.com)
+[Email Me](giana@gmail.com)
 </div>
 </p>    
 <br>
@@ -87,13 +87,13 @@ I am a full stack developer, I am passionate about building innovative, efficien
 
 
 <div class="footer" align="center" style="margin:15px;">
-    <a href="mailto:gym4programming@gmail.com" target="_blank">
+    <a href="mailto:giana@gmail.com" target="_blank">
         <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
     </a>
 </div>
 
 <!--
-**gj3chavez/gj3chavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
