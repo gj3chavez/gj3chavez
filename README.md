@@ -1,5 +1,5 @@
 ### 👩🏻‍💻 Giuliana Chavez 
-![_GitHBanner](https://github.com/gj3chavez/gj3chavez/assets/117243702/c2ed943d-e03c-495d-9345-78d8f8a0e130)
+![_GitHBanner](https://github.com/gj3chavez/gj3chavez/assets/117243702/c2ed943d-e03c-495d-9345-78d8f8a0e130/gif)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
 
