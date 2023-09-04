@@ -1,5 +1,5 @@
 ### 👩🏻‍💻 Giuliana Chavez 
-![github_banner]()
+
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
 
 <br>
