@@ -1,7 +1,10 @@
-### 👩🏻‍💻 Giuliana Chavez 
-![_GitHBanner](https://github.com/gj3chavez/gj3chavez/assets/117243702/c2ed943d-e03c-495d-9345-78d8f8a0e130/gif)
+  
+<h1>👩🏻‍💻 Giuliana Chavez </h1>
+
+![_GitHBanner](https://github.com/gj3chavez/gj3chavez/assets/117243702/1a1fbf11-68d1-4159-8b31-612b59ff0f97)
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
+I am a full stack developer, I am passionate about building innovative, efficient, and user-friendly web applications. My goal is to create software solutions that not only meet the needs of businesses and organizations but also provide seamless experiences for end-users. In my portfolio, you'll find a collection of projects that showcase my skills and expertise in front-end and back-end development, as well as my ability to work collaboratively in a team environment. From design to deployment, I strive to maintain the highest level of professionalism, quality, and attention to detail in all of my work.
 
 <br>
 <br>
@@ -24,9 +27,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
       <img  alt="JavaScript" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+   <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
       <img  alt="TypeScript" height="50px" style="padding-right:10px; ;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
-  </a>
+  </a> -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
       <img  alt="ReactJS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
@@ -77,6 +80,17 @@
 <br>
 <br>
 
+
+<h2 style="color: #44AEFB">📊 Statistics</h2>
+
+![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
+
+
+<div class="footer" align="center" style="margin:15px;">
+    <a href="mailto:gym4programming@gmail.com" target="_blank">
+        <img style="margin:0 10px 10px 0;" src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="40px"/>
+    </a>
+</div>
 
 <!--
 **gj3chavez/gj3chavez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
